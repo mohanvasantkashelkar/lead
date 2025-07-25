@@ -1,0 +1,8 @@
+{
+    "interestRates" : {
+        "personal" : 10.5,
+        "gold" : 9.8,
+        "home" : 8.4,
+        "car" : 7.9
+    }
+}

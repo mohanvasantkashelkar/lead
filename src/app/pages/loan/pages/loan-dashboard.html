@@ -1,0 +1,30 @@
+<div >
+    @defer{
+        @if (loanCategories.categories.length){
+            <mat-grid-list cols="4" rowHeight="1:1">
+            @for (category of loanCategories.categories; track $index) {
+                <mat-grid-tile>
+                    <mat-icon 
+                    aria-label="Example home icon" 
+                    [fontIcon]="categoryIcons[category.categoryType]"/>
+                    {{ category.categoryName }}
+                </mat-grid-tile>
+            }
+            </mat-grid-list>
+        }
+        @else {
+            No Categories Found
+        }
+    } @placeholder {
+        <p>Loading categories...</p>
+      }
+</div>
+
+@defer{
+    <app-table 
+    [source]="loans" 
+    [columnConfig]="columnConfig"
+    [columns]="columns"></app-table>
+}@placeholder {
+    <p>Loading loans...</p>
+  }

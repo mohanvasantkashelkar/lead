@@ -1,0 +1,20 @@
+{
+    "categories" : [
+        {
+            "categoryType" : "personal" , 
+            "categoryName" : "Personal Loan"
+        },
+        {
+            "categoryType" : "gold" , 
+            "categoryName" : "Gold Loan"
+        },
+        {
+            "categoryType" : "home" , 
+            "categoryName" : "Home Loan"
+        },
+        {
+            "categoryType" : "car" , 
+            "categoryName" : "Car Loan"
+        }
+    ]
+}

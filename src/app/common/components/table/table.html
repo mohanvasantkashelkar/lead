@@ -1,0 +1,33 @@
+
+<table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
+    <!-- Column -->
+     @for (column of columnConfig; track $index){
+        <ng-container [matColumnDef]="column.columnName">
+            <th mat-header-cell *matHeaderCellDef> {{ column.headerText }} </th>
+            <td mat-cell *matCellDef="let element">
+
+                <ng-container *ngIf="column.columnTemplate; contentTemplate">
+                    {{ element[column.columnName] }}
+                </ng-container>
+
+                <div #contentTemplate>
+                    {{ element[column.columnName] }}
+                </div>
+            </td>
+        </ng-container>
+    }
+
+    <tr mat-header-row *matHeaderRowDef="columns"></tr>
+    <tr
+        mat-row
+        *matRowDef="let row; columns: columns;"
+    ></tr>
+</table>
+
+
+<mat-paginator 
+    *ngIf="!isLoading"
+    [pageSizeOptions]="[5, 10, 20]"
+    showFirstLastButtons
+    aria-label="Select page of loans">
+</mat-paginator>

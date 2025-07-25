@@ -1,0 +1,802 @@
+[
+    {
+        "accountName": "Investment Account",
+        "accountNumber": "97901391",
+        "bic": "CKEKGPOEXXX",
+        "iban": "LB424652806K51F89I68XCB18049",
+        "currencyCode": "JMD",
+        "routingNumber": "516231677"
+    },
+    {
+        "accountName": "Auto Loan Account",
+        "accountNumber": "40076967",
+        "bic": "HLUFBL2GW3A",
+        "iban": "SE1200200903006061503049",
+        "currencyCode": "PYG",
+        "routingNumber": "445075069"
+    },
+    {
+        "accountName": "Savings Account",
+        "accountNumber": "57905895",
+        "bic": "LDXUHKEJNXD",
+        "iban": "GR56770767373T8A407B3937U37",
+        "currencyCode": "NIO",
+        "routingNumber": "135508736"
+    },
+    {
+        "accountName": "Investment Account",
+        "accountNumber": "97640298",
+        "bic": "OZBEKM4Q",
+        "iban": "TN0205007701500100050082",
+        "currencyCode": "MGA",
+        "routingNumber": "259821221"
+    },
+    {
+        "accountName": "Checking Account",
+        "accountNumber": "55945308",
+        "bic": "HGSUMUDF",
+        "iban": "SK9675100090170706001045",
+        "currencyCode": "FJD",
+        "routingNumber": "202171193"
+    },
+    {
+        "accountName": "Home Loan Account",
+        "accountNumber": "39087224",
+        "bic": "QZVXCDR0XXX",
+        "iban": "BH97BMVP5395357R203627",
+        "currencyCode": "CAD",
+        "routingNumber": "032081194"
+    },
+    {
+        "accountName": "Credit Card Account",
+        "accountNumber": "55896230",
+        "bic": "TNUTTV5X",
+        "iban": "ME09003699501921048336",
+        "currencyCode": "YER",
+        "routingNumber": "013101653"
+    },
+    {
+        "accountName": "Checking Account",
+        "accountNumber": "04998304",
+        "bic": "CINDTMTJAXC",
+        "iban": "LU248289L5724P0P48I8",
+        "currencyCode": "SZL",
+        "routingNumber": "551175604"
+    },
+    {
+        "accountName": "Checking Account",
+        "accountNumber": "04063950",
+        "bic": "ZUJGWS2L",
+        "iban": "HR2924306670179024332",
+        "currencyCode": "JMD",
+        "routingNumber": "045316542"
+    },
+    {
+        "accountName": "Savings Account",
+        "accountNumber": "94661240",
+        "bic": "FUAWUYWSXXX",
+        "iban": "LV13HAGHO8E0040086772",
+        "currencyCode": "NAD",
+        "routingNumber": "012888061"
+    },
+    {
+        "accountName": "Credit Card Account",
+        "accountNumber": "51154934",
+        "bic": "WPVIBWWJXXX",
+        "iban": "JO06GFCL0053003800260015400266",
+        "currencyCode": "MKD",
+        "routingNumber": "165197120"
+    },
+    {
+        "accountName": "Checking Account",
+        "accountNumber": "58770333",
+        "bic": "CVJNADVM",
+        "iban": "TR390630067670772207756094",
+        "currencyCode": "GHS",
+        "routingNumber": "913955491"
+    },
+    {
+        "accountName": "Personal Loan Account",
+        "accountNumber": "62995658",
+        "bic": "LJXALU5KXXX",
+        "iban": "CH3200478S61L592227L0",
+        "currencyCode": "UAH",
+        "routingNumber": "542773248"
+    },
+    {
+        "accountName": "Checking Account",
+        "accountNumber": "25081357",
+        "bic": "NXOFVIQS",
+        "iban": "FO0707149005014186",
+        "currencyCode": "AUD",
+        "routingNumber": "836477399"
+    },
+    {
+        "accountName": "Auto Loan Account",
+        "accountNumber": "24886601",
+        "bic": "CPARBALG",
+        "iban": "LT190019737444409799",
+        "currencyCode": "AOA",
+        "routingNumber": "670176607"
+    },
+    {
+        "accountName": "Home Loan Account",
+        "accountNumber": "51029798",
+        "bic": "NXSDBE5M",
+        "iban": "CZ1269977095260028128329",
+        "currencyCode": "ZMW",
+        "routingNumber": "275537913"
+    },
+    {
+        "accountName": "Money Market Account",
+        "accountNumber": "94052980",
+        "bic": "SMXQAM5IBVU",
+        "iban": "ES9752840015235940090895",
+        "currencyCode": "TOP",
+        "routingNumber": "396210423"
+    },
+    {
+        "accountName": "Money Market Account",
+        "accountNumber": "31186149",
+        "bic": "EELSCF8V",
+        "iban": "LU39330264515Z859950",
+        "currencyCode": "RSD",
+        "routingNumber": "010048337"
+    },
+    {
+        "accountName": "Personal Loan Account",
+        "accountNumber": "61994718",
+        "bic": "QQRBKNB0XXX",
+        "iban": "GL6840644100391004",
+        "currencyCode": "NPR",
+        "routingNumber": "507248116"
+    },
+    {
+        "accountName": "Money Market Account",
+        "accountNumber": "05668731",
+        "bic": "AWNYSLG0XXX",
+        "iban": "MD696496A48866P25R381727",
+        "currencyCode": "ETB",
+        "routingNumber": "458330283"
+    },
+    {
+        "accountName": "Auto Loan Account",
+        "accountNumber": "43970712",
+        "bic": "FOFHBYHDXXX",
+        "iban": "AD0900966003297538497419",
+        "currencyCode": "SLE",
+        "routingNumber": "142945447"
+    },
+    {
+        "accountName": "Savings Account",
+        "accountNumber": "37310647",
+        "bic": "FWPVREYM",
+        "iban": "GE43PY0079009308130020",
+        "currencyCode": "BBD",
+        "routingNumber": "983754457"
+    },
+    {
+        "accountName": "Savings Account",
+        "accountNumber": "22708552",
+        "bic": "JXCXSEL3",
+        "iban": "QA07ZUEZ690553245882Z9I7627Z4",
+        "currencyCode": "AED",
+        "routingNumber": "092827851"
+    },
+    {
+        "accountName": "Home Loan Account",
+        "accountNumber": "70773471",
+        "bic": "SPPKETP2",
+        "iban": "AL5978210043W52126I44843624I",
+        "currencyCode": "ISK",
+        "routingNumber": "678544749"
+    },
+    {
+        "accountName": "Investment Account",
+        "accountNumber": "16911419",
+        "bic": "PWTZLBXHUH2",
+        "iban": "MD358X01T959W7E6O04W0CL5",
+        "currencyCode": "ERN",
+        "routingNumber": "886451899"
+    },
+    {
+        "accountName": "Credit Card Account",
+        "accountNumber": "83428646",
+        "bic": "BKKNLV6W",
+        "iban": "AE312211007100290216003",
+        "currencyCode": "GIP",
+        "routingNumber": "194928454"
+    },
+    {
+        "accountName": "Personal Loan Account",
+        "accountNumber": "03194653",
+        "bic": "WGQLEEESXXX",
+        "iban": "IL340060600082080380628",
+        "currencyCode": "MNT",
+        "routingNumber": "459424693"
+    },
+    {
+        "accountName": "Credit Card Account",
+        "accountNumber": "32002449",
+        "bic": "IOUTCIWCXXX",
+        "iban": "CR45516470072430060061",
+        "currencyCode": "RON",
+        "routingNumber": "365611516"
+    },
+    {
+        "accountName": "Auto Loan Account",
+        "accountNumber": "51871949",
+        "bic": "IMSENLCTUUJ",
+        "iban": "RO79RLMP1528RQ149Y61654L",
+        "currencyCode": "PAB",
+        "routingNumber": "508374542"
+    },
+    {
+        "accountName": "Personal Loan Account",
+        "accountNumber": "30490011",
+        "bic": "KTCCMWL1",
+        "iban": "SE5101620000730754006001",
+        "currencyCode": "DKK",
+        "routingNumber": "049314595"
+    },
+    {
+        "accountName": "Investment Account",
+        "accountNumber": "37765986",
+        "bic": "FGLXLC1YXXX",
+        "iban": "AL720890508516984S7451317448",
+        "currencyCode": "RON",
+        "routingNumber": "584022070"
+    },
+    {
+        "accountName": "Investment Account",
+        "accountNumber": "80823549",
+        "bic": "CFRDKZ0RXXX",
+        "iban": "CR67904170072203009305",
+        "currencyCode": "BZD",
+        "routingNumber": "403146749"
+    },
+    {
+        "accountName": "Auto Loan Account",
+        "accountNumber": "35529289",
+        "bic": "ZXOBQA2Q",
+        "iban": "KZ58008I74G0C2373489",
+        "currencyCode": "BHD",
+        "routingNumber": "081223356"
+    },
+    {
+        "accountName": "Savings Account",
+        "accountNumber": "57038097",
+        "bic": "JHMNPHCJ",
+        "iban": "LI8807469904C41569358",
+        "currencyCode": "PHP",
+        "routingNumber": "246715308"
+    },
+    {
+        "accountName": "Auto Loan Account",
+        "accountNumber": "10163708",
+        "bic": "LNSQCFFM",
+        "iban": "RS82480808200030005205",
+        "currencyCode": "KWD",
+        "routingNumber": "419758105"
+    },
+    {
+        "accountName": "Money Market Account",
+        "accountNumber": "43249999",
+        "bic": "YZSIAOWE",
+        "iban": "IL102960056640006070278",
+        "currencyCode": "MUR",
+        "routingNumber": "665825293"
+    },
+    {
+        "accountName": "Auto Loan Account",
+        "accountNumber": "34705802",
+        "bic": "VQWQKR2LI2M",
+        "iban": "KW69WEHTK3667834W8F645527N2664",
+        "currencyCode": "GTQ",
+        "routingNumber": "491568960"
+    },
+    {
+        "accountName": "Checking Account",
+        "accountNumber": "87833910",
+        "bic": "BLNDUZLY",
+        "iban": "AT080087603095005258",
+        "currencyCode": "KPW",
+        "routingNumber": "759243930"
+    },
+    {
+        "accountName": "Personal Loan Account",
+        "accountNumber": "20596104",
+        "bic": "WTLUBTRB",
+        "iban": "BE28464600415662",
+        "currencyCode": "BZD",
+        "routingNumber": "971779622"
+    },
+    {
+        "accountName": "Auto Loan Account",
+        "accountNumber": "16373586",
+        "bic": "ITMLAM3F",
+        "iban": "BR7331856400200550017738007W6",
+        "currencyCode": "KGS",
+        "routingNumber": "582359800"
+    },
+    {
+        "accountName": "Money Market Account",
+        "accountNumber": "48898376",
+        "bic": "XVBMTKU6",
+        "iban": "PL75414006880839804008768811",
+        "currencyCode": "BBD",
+        "routingNumber": "438196447"
+    },
+    {
+        "accountName": "Money Market Account",
+        "accountNumber": "98991131",
+        "bic": "COLUBNHKB93",
+        "iban": "SE4506816305002801100331",
+        "currencyCode": "JOD",
+        "routingNumber": "278187726"
+    },
+    {
+        "accountName": "Investment Account",
+        "accountNumber": "18944322",
+        "bic": "YZKUKY09VID",
+        "iban": "IS460071110762006630094728",
+        "currencyCode": "MXN",
+        "routingNumber": "941311421"
+    },
+    {
+        "accountName": "Home Loan Account",
+        "accountNumber": "00357162",
+        "bic": "ZAXRVAI2",
+        "iban": "TL691018904346638200513",
+        "currencyCode": "FJD",
+        "routingNumber": "659231398"
+    },
+    {
+        "accountName": "Auto Loan Account",
+        "accountNumber": "96136624",
+        "bic": "DILRGL37XXX",
+        "iban": "CH426047553SW690J6479",
+        "currencyCode": "LKR",
+        "routingNumber": "319355433"
+    },
+    {
+        "accountName": "Checking Account",
+        "accountNumber": "53563666",
+        "bic": "MREOATCI",
+        "iban": "MT87RYSP94720750H57058690297P88",
+        "currencyCode": "NOK",
+        "routingNumber": "979812099"
+    },
+    {
+        "accountName": "Checking Account",
+        "accountNumber": "40192028",
+        "bic": "RYMHGPAC92W",
+        "iban": "MK15700066W41801W97",
+        "currencyCode": "MAD",
+        "routingNumber": "493885434"
+    },
+    {
+        "accountName": "Money Market Account",
+        "accountNumber": "75426795",
+        "bic": "TIPCZM67",
+        "iban": "LV70UKXU918YYA00I023Y",
+        "currencyCode": "PGK",
+        "routingNumber": "412554694"
+    },
+    {
+        "accountName": "Checking Account",
+        "accountNumber": "47488808",
+        "bic": "JYLKBLW8",
+        "iban": "BA185009689186231410",
+        "currencyCode": "ZAR",
+        "routingNumber": "111567542"
+    },
+    {
+        "accountName": "Auto Loan Account",
+        "accountNumber": "82464025",
+        "bic": "WDZUAFB9",
+        "iban": "FI8600109400300662",
+        "currencyCode": "FJD",
+        "routingNumber": "235432744"
+    },
+    {
+        "accountName": "Investment Account",
+        "accountNumber": "56033221",
+        "bic": "YFURUZV6XXX",
+        "iban": "TN9092285141900679630061",
+        "currencyCode": "PEN",
+        "routingNumber": "949094041"
+    },
+    {
+        "accountName": "Checking Account",
+        "accountNumber": "80293929",
+        "bic": "PZCEGFT5",
+        "iban": "TL460919829844610007007",
+        "currencyCode": "IRR",
+        "routingNumber": "523370136"
+    },
+    {
+        "accountName": "Savings Account",
+        "accountNumber": "92017038",
+        "bic": "CQRWBR50XXX",
+        "iban": "LI13983808886884ON665",
+        "currencyCode": "AWG",
+        "routingNumber": "855181239"
+    },
+    {
+        "accountName": "Savings Account",
+        "accountNumber": "99474285",
+        "bic": "YICABFHM8OR",
+        "iban": "CY84480164903618Y9S4723658GT",
+        "currencyCode": "MYR",
+        "routingNumber": "960847617"
+    },
+    {
+        "accountName": "Auto Loan Account",
+        "accountNumber": "71487388",
+        "bic": "AUCMYEYL",
+        "iban": "ME82714103366806673613",
+        "currencyCode": "USD",
+        "routingNumber": "833546524"
+    },
+    {
+        "accountName": "Money Market Account",
+        "accountNumber": "17557269",
+        "bic": "AXQMFKY1XXX",
+        "iban": "MC40028780055861379ZY943420",
+        "currencyCode": "PAB",
+        "routingNumber": "238269697"
+    },
+    {
+        "accountName": "Home Loan Account",
+        "accountNumber": "65229470",
+        "bic": "MFNVSR83",
+        "iban": "MR8270394330250021700608066",
+        "currencyCode": "HUF",
+        "routingNumber": "980298398"
+    },
+    {
+        "accountName": "Auto Loan Account",
+        "accountNumber": "38580409",
+        "bic": "GLYYMVJZ",
+        "iban": "LI4507554GIG2750UN7N3",
+        "currencyCode": "DOP",
+        "routingNumber": "930394983"
+    },
+    {
+        "accountName": "Investment Account",
+        "accountNumber": "22769158",
+        "bic": "GFHKTZDW",
+        "iban": "AE159864640010756320099",
+        "currencyCode": "VUV",
+        "routingNumber": "454952869"
+    },
+    {
+        "accountName": "Savings Account",
+        "accountNumber": "34623788",
+        "bic": "MBIBLK52CYP",
+        "iban": "BR1005110020701436009809749MY",
+        "currencyCode": "OMR",
+        "routingNumber": "834159842"
+    },
+    {
+        "accountName": "Personal Loan Account",
+        "accountNumber": "56777309",
+        "bic": "VAOCTGTUTK4",
+        "iban": "AE517909760049068004292",
+        "currencyCode": "GHS",
+        "routingNumber": "787746328"
+    },
+    {
+        "accountName": "Home Loan Account",
+        "accountNumber": "85254613",
+        "bic": "UJGNNGDY0VQ",
+        "iban": "SE3405640096205050500963",
+        "currencyCode": "RUB",
+        "routingNumber": "252648184"
+    },
+    {
+        "accountName": "Investment Account",
+        "accountNumber": "60454681",
+        "bic": "AENOHKWA",
+        "iban": "HR9288400210400403009",
+        "currencyCode": "AED",
+        "routingNumber": "145468219"
+    },
+    {
+        "accountName": "Investment Account",
+        "accountNumber": "04278654",
+        "bic": "RWLCLSDN",
+        "iban": "FI2600868924867456",
+        "currencyCode": "PYG",
+        "routingNumber": "962983919"
+    },
+    {
+        "accountName": "Checking Account",
+        "accountNumber": "02715790",
+        "bic": "ZLKOTVM6",
+        "iban": "XK259955725602105843",
+        "currencyCode": "SDG",
+        "routingNumber": "024363464"
+    },
+    {
+        "accountName": "Auto Loan Account",
+        "accountNumber": "09985714",
+        "bic": "RFAEYEV6XXX",
+        "iban": "SE2582822484930257005375",
+        "currencyCode": "GTQ",
+        "routingNumber": "211567620"
+    },
+    {
+        "accountName": "Auto Loan Account",
+        "accountNumber": "71273866",
+        "bic": "FVGIIN0JXXX",
+        "iban": "KZ2646888859663RB1DR",
+        "currencyCode": "BZD",
+        "routingNumber": "113507270"
+    },
+    {
+        "accountName": "Personal Loan Account",
+        "accountNumber": "15816589",
+        "bic": "WYKEFJ1R",
+        "iban": "LV56GSGA4B859162L7J6P",
+        "currencyCode": "MZN",
+        "routingNumber": "226255095"
+    },
+    {
+        "accountName": "Personal Loan Account",
+        "accountNumber": "18583179",
+        "bic": "SLOFCL2X",
+        "iban": "DK2520281094993060",
+        "currencyCode": "LRD",
+        "routingNumber": "323132273"
+    },
+    {
+        "accountName": "Investment Account",
+        "accountNumber": "67835926",
+        "bic": "CHEAAXW6",
+        "iban": "IE14479013246885008075",
+        "currencyCode": "DOP",
+        "routingNumber": "856782213"
+    },
+    {
+        "accountName": "Personal Loan Account",
+        "accountNumber": "05118613",
+        "bic": "XAYRUM87O5Q",
+        "iban": "GT1444417142365143S28N521491",
+        "currencyCode": "ERN",
+        "routingNumber": "268369224"
+    },
+    {
+        "accountName": "Money Market Account",
+        "accountNumber": "94566798",
+        "bic": "RCGHUM0S",
+        "iban": "RO21HYHOR199G9905Z854195",
+        "currencyCode": "UYU",
+        "routingNumber": "282725983"
+    },
+    {
+        "accountName": "Savings Account",
+        "accountNumber": "92093252",
+        "bic": "WCKKCUAE",
+        "iban": "IE30464609200200600606",
+        "currencyCode": "KES",
+        "routingNumber": "503665175"
+    },
+    {
+        "accountName": "Checking Account",
+        "accountNumber": "97940651",
+        "bic": "BOJLPEB3",
+        "iban": "MD73939224184591774123Z9",
+        "currencyCode": "KYD",
+        "routingNumber": "076553345"
+    },
+    {
+        "accountName": "Home Loan Account",
+        "accountNumber": "19360346",
+        "bic": "VNCAMYJN8K5",
+        "iban": "PK79WLRR0048009004255842",
+        "currencyCode": "SEK",
+        "routingNumber": "499455703"
+    },
+    {
+        "accountName": "Checking Account",
+        "accountNumber": "31488714",
+        "bic": "YOYPIS13",
+        "iban": "CR86900103673243930036",
+        "currencyCode": "SCR",
+        "routingNumber": "332061717"
+    },
+    {
+        "accountName": "Checking Account",
+        "accountNumber": "44628490",
+        "bic": "MTTHMND13EP",
+        "iban": "DO40VIBD90538857885503796187",
+        "currencyCode": "JOD",
+        "routingNumber": "547080910"
+    },
+    {
+        "accountName": "Credit Card Account",
+        "accountNumber": "78079758",
+        "bic": "XBXKHTY3TPJ",
+        "iban": "MU96OXVB0860650980058025595TOJ",
+        "currencyCode": "PGK",
+        "routingNumber": "635982289"
+    },
+    {
+        "accountName": "Checking Account",
+        "accountNumber": "31239822",
+        "bic": "QMQAILF1",
+        "iban": "PS241386505095009079370016968",
+        "currencyCode": "WST",
+        "routingNumber": "229906875"
+    },
+    {
+        "accountName": "Savings Account",
+        "accountNumber": "51816618",
+        "bic": "EHVXGL7L",
+        "iban": "FR870008739743B588566198767",
+        "currencyCode": "BIF",
+        "routingNumber": "224421724"
+    },
+    {
+        "accountName": "Personal Loan Account",
+        "accountNumber": "07916136",
+        "bic": "AKCLMWXF6MM",
+        "iban": "MD241N706AA04Y4085399G25",
+        "currencyCode": "CAD",
+        "routingNumber": "893655125"
+    },
+    {
+        "accountName": "Savings Account",
+        "accountNumber": "07914296",
+        "bic": "APATFKECDQT",
+        "iban": "BR6704618020270028209000420U4",
+        "currencyCode": "KRW",
+        "routingNumber": "611010599"
+    },
+    {
+        "accountName": "Credit Card Account",
+        "accountNumber": "74987642",
+        "bic": "GJJNRS1X",
+        "iban": "DE06900406527007088764",
+        "currencyCode": "BWP",
+        "routingNumber": "653771702"
+    },
+    {
+        "accountName": "Savings Account",
+        "accountNumber": "13534305",
+        "bic": "BVRFCULEGXC",
+        "iban": "NL41JKEV0551004089",
+        "currencyCode": "BZD",
+        "routingNumber": "152503633"
+    },
+    {
+        "accountName": "Home Loan Account",
+        "accountNumber": "98566744",
+        "bic": "JPHDLYCQ",
+        "iban": "JO08MDAJ2873004550267680091515",
+        "currencyCode": "DZD",
+        "routingNumber": "251356202"
+    },
+    {
+        "accountName": "Personal Loan Account",
+        "accountNumber": "19729495",
+        "bic": "QDJDST2H",
+        "iban": "LB318067181B459C213HN3978152",
+        "currencyCode": "NAD",
+        "routingNumber": "840613327"
+    },
+    {
+        "accountName": "Investment Account",
+        "accountNumber": "52604123",
+        "bic": "YZFXQAV9XXX",
+        "iban": "AT100002477004362600",
+        "currencyCode": "AUD",
+        "routingNumber": "179234710"
+    },
+    {
+        "accountName": "Savings Account",
+        "accountNumber": "89505027",
+        "bic": "MAAHGAC9",
+        "iban": "FR660579408002177E45176P799",
+        "currencyCode": "IQD",
+        "routingNumber": "518640635"
+    },
+    {
+        "accountName": "Personal Loan Account",
+        "accountNumber": "46537653",
+        "bic": "ISPPCFXH",
+        "iban": "BE94233058801003",
+        "currencyCode": "PLN",
+        "routingNumber": "941546791"
+    },
+    {
+        "accountName": "Checking Account",
+        "accountNumber": "36244198",
+        "bic": "EEQWPYFK",
+        "iban": "IT27Q1005855716R0X374170989",
+        "currencyCode": "FJD",
+        "routingNumber": "715860810"
+    },
+    {
+        "accountName": "Investment Account",
+        "accountNumber": "73962104",
+        "bic": "BRJIDOH6",
+        "iban": "MK923387Y3YM6783L58",
+        "currencyCode": "MXN",
+        "routingNumber": "759296152"
+    },
+    {
+        "accountName": "Savings Account",
+        "accountNumber": "67275638",
+        "bic": "GHITKY4BJCO",
+        "iban": "DO91FUMK76008090094029030037",
+        "currencyCode": "SCR",
+        "routingNumber": "124682595"
+    },
+    {
+        "accountName": "Checking Account",
+        "accountNumber": "10479927",
+        "bic": "TRRYSHE1",
+        "iban": "FI4200788619060025",
+        "currencyCode": "FJD",
+        "routingNumber": "376865814"
+    },
+    {
+        "accountName": "Personal Loan Account",
+        "accountNumber": "46169878",
+        "bic": "OLUCKEBA",
+        "iban": "BG59SUKO0070340962408S",
+        "currencyCode": "STN",
+        "routingNumber": "026291181"
+    },
+    {
+        "accountName": "Checking Account",
+        "accountNumber": "29762808",
+        "bic": "XSZCRSBK",
+        "iban": "TR491059950561080009100155",
+        "currencyCode": "SSP",
+        "routingNumber": "321193191"
+    },
+    {
+        "accountName": "Credit Card Account",
+        "accountNumber": "68288192",
+        "bic": "AJYRTMSL386",
+        "iban": "PT24100311745051007705283",
+        "currencyCode": "TJS",
+        "routingNumber": "301940555"
+    },
+    {
+        "accountName": "Money Market Account",
+        "accountNumber": "56883505",
+        "bic": "SAYJAOZJ",
+        "iban": "SI87002779000586576",
+        "currencyCode": "ILS",
+        "routingNumber": "230173338"
+    },
+    {
+        "accountName": "Investment Account",
+        "accountNumber": "36969248",
+        "bic": "JSQEVUIKC0M",
+        "iban": "NL72NGLE2840060030",
+        "currencyCode": "HUF",
+        "routingNumber": "782970416"
+    },
+    {
+        "accountName": "Money Market Account",
+        "accountNumber": "93408598",
+        "bic": "CPCVLT1N",
+        "iban": "RS76632004200939691675",
+        "currencyCode": "PLN",
+        "routingNumber": "140642823"
+    },
+    {
+        "accountName": "Checking Account",
+        "accountNumber": "71991520",
+        "bic": "YLBFPYNZXXX",
+        "iban": "GR1301935597I053073O7963103",
+        "currencyCode": "GYD",
+        "routingNumber": "686724072"
+    }
+]
